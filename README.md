@@ -13,4 +13,4 @@ para o sucesso da empresa.
   <a href="https://www.linkedin.com/in/felippefardin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-[<img src="https://www.dio.me/certificate/Z3UCHOAS/share" width="70">]
+[img src="https://www.dio.me/certificate/Z3UCHOAS/share" width="70">
