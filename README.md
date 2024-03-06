@@ -1,8 +1,8 @@
 ### Olá, seja bem vindo ao meu perfil 💻
 
-- 🔭 Em busca de oportunidade de trabalho
+- 🔭 Em busca de melhorar sempre.
 - 🌱 Estudando 3 período de Análise e desenvolvimento de sistemas
-- 💬  Sobre mim: Procuro oportunidade de trabalho que possa trazer novos caminhos e crescimento unindo aos
+- 💬  Sobre mim: Procuro oportunidade de trabalho/estágio que possa trazer novos caminhos e crescimento unindo aos
 meus estudos da minha formação. Quero desenvolver minhas habilidades e também agregar
 para o sucesso da empresa.
 
