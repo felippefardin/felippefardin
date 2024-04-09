@@ -26,7 +26,7 @@ para o sucesso da empresa.
 <img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" width="70">  
 </div>
 
-****Conhecimento:**
+**Conhecimento:**
 
 <p>Figma</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="70">
