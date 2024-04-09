@@ -15,7 +15,9 @@ para o sucesso da empresa.
 
 **Bootcamps Concluidos:**
 <div>
- <p>Linguagem Javascript</p> <p>GO developer</p> <p>HTML/CSS</p>
+ <p>Linguagem Javascript</p> 
+ <p>GO developer</p> 
+<p>HTML/CSS</p>
 <img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" width="70">
 <img src="https://hermes.dio.me/tracks/c362ed53-4e9e-441e-ac1d-6a69f817c0bf.png" width="70">
 <img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" width="70">
