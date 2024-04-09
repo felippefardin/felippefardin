@@ -23,3 +23,8 @@ para o sucesso da empresa.
 <img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" width="70">
 <img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" width="70">  
 </div>
+
+****Conhecimento:**
+<p>Figma</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="70">
+
