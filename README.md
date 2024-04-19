@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu perfil 💻
+### Olá, seja bem vindo ao meu perfil 💻 <img src="![image](https://github.com/felippefardin/felippefardin/assets/147771670/c9493cb1-7d02-4aac-83cc-3386eb1d2079)" width="70">  
 
 - 🔭 Construindo mimha jornada profissional
 - 🌱 Estudando 3 período de Análise e desenvolvimento de sistemas
