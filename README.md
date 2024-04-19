@@ -1,10 +1,10 @@
-### Olá, seja bem vindo ao meu perfil 💻 <img width="188" height="188" src="https://img.icons8.com/3d-fluency/188/github.png" alt="github"/>
+<div>### Olá, seja bem vindo ao meu perfil 💻 <img width="188" height="188" src="https://img.icons8.com/3d-fluency/188/github.png" alt="github"/>
 
 - 🔭 Construindo mimha jornada profissional
 - 🌱 Estudando 3 período de Análise e desenvolvimento de sistemas
 - 💬  Sobre mim: Procuro oportunidade de trabalho/estágio que possa trazer novos caminhos e crescimento unindo aos
 meus estudos da minha formação. Quero desenvolver minhas habilidades e também agregar
-para o sucesso da empresa.
+para o sucesso da empresa.</div>
 
 
 <div> 
