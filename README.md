@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil 💻
 
-- 🔭 Em busca de ser sempre melhor pessoalmente e profissionalmente. 
+- 🔭 Construindo mimha jornada profissional
 - 🌱 Estudando 3 período de Análise e desenvolvimento de sistemas
 - 💬  Sobre mim: Procuro oportunidade de trabalho/estágio que possa trazer novos caminhos e crescimento unindo aos
 meus estudos da minha formação. Quero desenvolver minhas habilidades e também agregar
