@@ -1,4 +1,4 @@
-<img src="https://icons8.com.br/icon/12598/github" width="70">
+<img src="![image](https://github.com/felippefardin/felippefardin/assets/147771670/f463bbc5-077d-4b42-ae10-217da589a7cc)" width="70">
 
 
 ### Olá, seja bem vindo ao meu perfil 💻
