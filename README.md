@@ -1,7 +1,7 @@
 <img width="100" height="100" src="https://img.icons8.com/3d-fluency/100/github.png" alt="github"/>
 
 
-### Olá, seja bem vindo ao meu perfil 💻 <img width="188" height="188" src="https://img.icons8.com/3d-fluency/188/github.png" alt="github"/>
+### Olá, seja bem vindo ao meu perfil 💻
 
 - 🔭 Construindo mimha jornada profissional
 - 🌱 Estudando 3 período de Análise e desenvolvimento de sistemas
