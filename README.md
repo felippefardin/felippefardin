@@ -3,12 +3,12 @@
 ### Olá, seja bem vindo ao meu perfil 💻
 
 
-- 🔭 Construindo mimha jornada profissional
-- 🌱 Estudando 3 período de Análise e desenvolvimento de sistemas
+- 🔭 Construindo minha jornada profissional.
+- 🌱 Estudante do 4º período de Análise e desenvolvimento de sistemas.
 - 💬  Sobre mim: Sempre em busca oportunidades que possam trazer novos caminhos e crescimento unindo aos
 meus estudos da minha formação. Quero desenvolver minhas habilidades e também agregar
 para o sucesso da empresa.
-- 🎯 Estágiário de programação na Prefeitura da Serra/ES com ínicio em 06/05/2024.
+- 🎯 Estagiário de programação na Prefeitura da Serra/ES com ínicio em 06/05/2024.
 
 
 <div> 
