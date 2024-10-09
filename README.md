@@ -29,7 +29,6 @@ para o sucesso da empresa.
 <img src="https://hermes.dio.me/tracks/c362ed53-4e9e-441e-ac1d-6a69f817c0bf.png" width="70">
 <img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" width="70">
 <img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" width="70">
-<img src="[https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png](https://assets.dio.me/kzmnpNCSrZh0LAbVHyh8ns7flweLXka1dAbGYKX_kMA/f:webp/h:120/q:80/L3RyYWNrcy8yMGIwNGRkZi00MmE3LTQ5NDUtYjAwNC1lNmNkOGIxYTc5OGYucG5n)" width="70">
 </div>
 
 **Conhecimento:**
