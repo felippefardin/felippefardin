@@ -22,7 +22,7 @@ para o sucesso da empresa.
 
 <div>
   <div>
-    Javascript / GO develope / HTML / CSS 
+    Javascript / GO develope / HTML / CSS / PHP / Banco de Dados
   </div>
   
 <img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" width="70">  
