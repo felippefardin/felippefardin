@@ -8,7 +8,7 @@
 - 💬  Sobre mim: Sempre em busca oportunidades que possam trazer novos caminhos e crescimento unindo aos
 meus estudos da minha formação. Quero desenvolver minhas habilidades e também agregar
 para o sucesso da empresa.
-- 🎯 Estagiário de programação na Prefeitura da Serra/ES com ínicio em 06/05/2024. (Full-stack, php, ajax ,Node.js, Banco de dados MySql)
+- 🎯 Estagiário de programação na Prefeitura da Serra/ES com ínicio em 06/05/2024. (Full-stack, php, ajax ,Node.js, Banco de dados MySql/SQL)
 
 
 <div> 
