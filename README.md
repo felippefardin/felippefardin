@@ -4,7 +4,7 @@
 
 
 - 🔭 Construindo minha jornada profissional.
-- 🌱 Estudante do 5º período de Análise e desenvolvimento de sistemas.
+- 🌱 Desenvolvedor júnior Full Stack -PHP - Banco de Dados - MySQL/SQL - Suporte Técnico.
 - 💬  Sobre mim: Sempre em busca oportunidades que possam trazer novos caminhos e crescimento unindo aos
 meus estudos da minha formação. Quero desenvolver minhas habilidades e também agregar
 para o sucesso da empresa.
