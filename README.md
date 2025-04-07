@@ -7,7 +7,10 @@
 - 🌱 Desenvolvedor júnior Full Stack -PHP - Banco de Dados - MySQL/SQL - Suporte Técnico.
 - 💬  Sobre mim: Sempre em busca oportunidades que possam trazer novos caminhos e crescimento unindo aos
 meus estudos da minha formação. Quero desenvolver minhas habilidades e também agregar
-para o sucesso da empresa.
+para o sucesso da empresa. Hoje, o que me inspira é simples: resolver problemas, facilitar vidas e criar coisas úteis com tecnologia.
+Nada como ver algo que você construiu funcionando e ajudando alguém de verdade.
+É isso que me dá gás. Admiro quem usa a tecnologia pra quebrar barreiras, conectar pessoas e transformar ideias em realidade.
+E quero estar nesse time, fazendo parte de projetos que realmente façam a diferença.
 - 🎯 Estagiário de programação na Prefeitura da Serra/ES com ínicio em 06/05/2024. (Full-stack, php, Banco de dados MySql/SQL)
 
 
