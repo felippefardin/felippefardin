@@ -25,7 +25,7 @@ E quero estar nesse time, fazendo parte de projetos que realmente façam a difer
 
 <div>
   <div>
-    Javascript / GO develope / HTML / CSS / PHP / Banco de Dados
+    Javascript | GO develope | HTML5 | CSS | PHP | Banco de Dados | Desenvolvimento web | WAMP | XAMPP | GitHub | Git | Bootstrap | Suporte técnico 
   </div>
   
 <img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" width="70">  
