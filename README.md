@@ -18,8 +18,9 @@ Sigo sempre em busca de novas oportunidades para crescer e contribuir com minha 
   <a href="https://www.linkedin.com/in/felippefardin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-  <div>
-  **Bootcamps Concluidos:** 
+**Bootcamps Concluidos:** 
+
+<div>  
 <img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" width="70">  
 <img src="https://hermes.dio.me/tracks/c362ed53-4e9e-441e-ac1d-6a69f817c0bf.png" width="70">
 <img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" width="70">
