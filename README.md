@@ -4,24 +4,19 @@
 ## Sou Felippe! 👨‍💻
 
 💬 Sou um desenvolvedor júnior Full Stack com experiência em PHP, MySQL/SQL, e suporte técnico. Estou em constante evolução, com foco em aprender e aplicar novas tecnologias para resolver problemas reais e construir soluções úteis.
+
 - 🔭 Construindo minha jornada profissional.
-- 🌱 Desenvolvedor júnior Full Stack -PHP - Banco de Dados - MySQL/SQL - Suporte Técnico.
 - 🎯 Atualmente, sou estagiário de programação na Prefeitura da Serra/ES, trabalhando com tecnologias Full Stack.
 Sigo sempre em busca de novas oportunidades para crescer e contribuir com minha experiência e habilidades.
 
 **Tecnologias que domino**:
-Desenvolvedor Júnior Full Stack | PHP (Laravel) | MySQL | Suporte Técnico | APIs REST | Bootstrap
+- 🌱  Javascript | GO develope | HTML5 | CSS | PHP | Banco de Dados | Desenvolvimento web | WAMP | XAMPP | GitHub | Git | Bootstrap | Suporte técnico 
 
 <div> 
   <a href="https://www.instagram.com/felippefardin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:felippefardin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felippefardin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<div>
-  
-  <div>
-    Javascript | GO develope | HTML5 | CSS | PHP | Banco de Dados | Desenvolvimento web | WAMP | XAMPP | GitHub | Git | Bootstrap | Suporte técnico 
-  </div>
   
   **Bootcamps Concluidos:** 
 <img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" width="70">  
