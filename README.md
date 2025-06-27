@@ -3,14 +3,22 @@
 ### Olá, seja bem vindo ao meu perfil 💻
 ## Sou Felippe! 👨‍💻
 
-💬 Sou um desenvolvedor júnior Full Stack com experiência em PHP, MySQL/SQL, e suporte técnico. Estou em constante evolução, com foco em aprender e aplicar novas tecnologias para resolver problemas reais e construir soluções úteis.
-
+💬 Sou Felippe Fardin, desenvolvedor júnior Full Stack em constante evolução. Tenho experiência com PHP, MySQL/SQL e suporte técnico, adquirida durante minha atuação como estagiário de desenvolvimento de programas na Prefeitura Municipal da Serra. Sou motivado por desafios reais: adoro aprender novas tecnologias e aplicá-las para resolver problemas concretos, construir sistemas funcionais e entregar valor no dia a dia.
+- 🛠️ Full Stack com PHP e bancos de dados: crio aplicações robustas integrando backend e frontend.
 - 🔭 Construindo minha jornada profissional.
-- 🎯 Atualmente, sou estagiário de programação na Prefeitura da Serra/ES, trabalhando com tecnologias Full Stack.
-Sigo sempre em busca de novas oportunidades para crescer e contribuir com minha experiência e habilidades.
-
-**Tecnologias que domino**:
-- 🌱  Javascript | GO develope | HTML5 | CSS | PHP | Banco de Dados | Desenvolvimento web | WAMP | XAMPP | GitHub | Git | Bootstrap | Suporte técnico 
+- 🎯 Foco na solução prática: desenvolvo pensando na usabilidade e no impacto direto para o usuário.
+- 📈 Aprendizado contínuo: acompanho novidades em frameworks, APIs, boas práticas de código e segurança — recentemente preparei materiais sobre APIs e segurança na internet.
+- 🤝 Colaboração e comunicação: atuo bem em equipe, facilitando interações transparentes no desenvolvimento e no suporte técnico.
+- 💼 Tecnologias & Ferramentas ->
+- 💻 Linguagens	PHP, JavaScript, HTML5, CSS3, SQL
+- ⚙️ Frameworks & Libs	Laravel, Bootstrap, React (inicial), Styled Components
+- 🛢️ Banco de Dados	MySQL, SQL Server
+- 🔐 Autenticação	Laravel Sanctum, Controle de permissões
+- 🔄 API RESTful	Criação e consumo com métodos GET, POST
+- 🛠️ Ferramentas	Git, GitHub, GitLab, VS Code, Figma
+- 📚 Documentação	Markdown, PDF, Trello, Jira
+- 🌐 Hospedagem/Deploy	GitHub Pages, Vercel (inicial), servidores locais
+- 🎨 UI/UX	Figma (protótipos), design responsivo, acessibilidade
 
 <div> 
   <a href="https://www.instagram.com/felippefardin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
