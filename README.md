@@ -34,7 +34,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/felippefardin/)
 - [GitHub](https://github.com/felippefardin)
-- [Site](https://bugcriativo.page.gd/)
+- [Meu Site](https://bugcriativo.page.gd/)
 - ✉️ felippefardin@gmail.com
 
 <div> 
