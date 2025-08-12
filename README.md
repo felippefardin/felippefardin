@@ -3,7 +3,7 @@
 ### Olá, seja bem vindo ao meu perfil 💻
 ## Sou Felippe! 👨‍💻
 
-💬 Sou Felippe Fardin, desenvolvedor júnior Full Stack em constante evolução. Tenho experiência com PHP, MySQL/SQL e suporte técnico, adquirida durante minha atuação como estagiário de desenvolvimento de programas na Prefeitura Municipal da Serra. Sou motivado por desafios reais: adoro aprender novas tecnologias e aplicá-las para resolver problemas concretos, construir sistemas funcionais e entregar valor no dia a dia.
+💬 Sou Felippe Fardin, desenvolvedor Full Stack sempre em constante evolução. Formado em Análise e desemvolvimento de sistemas pela instituição Universidade Vila Velha(UVV). Tenho experiência com PHP, MySQL/SQL e suporte técnico, adquirida durante minha atuação como estagiário de desenvolvimento de programas na Prefeitura Municipal da Serra. Sou motivado por desafios reais: adoro aprender novas tecnologias e aplicá-las para resolver problemas concretos, construir sistemas funcionais e entregar valor no dia a dia.
 
 ## 🚀 O que faço
 
@@ -34,6 +34,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/felippefardin/)
 - [GitHub](https://github.com/felippefardin)
+- [Site](https://bugcriativo.page.gd/)
 - ✉️ felippefardin@gmail.com
 
 <div> 
