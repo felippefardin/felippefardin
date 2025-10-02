@@ -3,7 +3,17 @@
 ### Olá, seja bem vindo ao meu perfil 💻
 ## Sou Felippe! 👨‍💻
 
-💬 Sou Felippe Fardin, desenvolvedor Full Stack sempre em constante evolução. Formado em Análise e desemvolvimento de sistemas pela instituição Universidade Vila Velha(UVV) na data de 31/07/2025. Tenho experiência com PHP, MySQL/SQL e suporte técnico, adquirida durante minha atuação como estagiário de desenvolvimento de programas na Prefeitura Municipal da Serra. Sou motivado por desafios reais: adoro aprender novas tecnologias e aplicá-las para resolver problemas concretos, construir sistemas funcionais e entregar valor no dia a dia.
+💬 Sou Desenvolvedor Full Stack Júnior, formado em Análise e Desenvolvimento de Sistemas pela UVV, com Pós-graduação em Cybersegurança em andamento. Possuo experiência prática em desenvolvimento web com PHP (Laravel), JavaScript, além de sólidos conhecimentos em bancos de dados MySQL/SQL, APIs RESTful, HTML, CSS, Bootstrap e versionamento com Git. Participei de projetos como sistemas de 
+gestão, plataformas de reservas e painéis administrativos, sempre priorizando usabilidade, segurança e eficiência. Busco novas oportunidades para aplicar e expandir meus conhecimentos, contribuindo em equipes colaborativas e ambientes de tecnologia desafiadores. 
+
+---
+
+## 📚 Formação Acadêmica
+
+- 🎓 **Graduação**: Análise e Desenvolvimento de Sistemas — Universidade Vila Velha (UVV), concluída em **31/07/2025**  
+- 🎓 **Pós-Graduação (em andamento)**: Cibersegurança  
+
+---
 
 ## 🚀 O que faço
 
