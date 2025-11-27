@@ -59,7 +59,7 @@ Possuo experiência prévia com desenvolvimento e TI, o que complementa minha vi
 - [LinkedIn](https://www.linkedin.com/in/felippefardin/)
 - [GitHub](https://github.com/felippefardin)
 - [Meu Site](https://bugcriativo.page.gd/)
-- ✉️ felippefardin@gmail.com  
+- ✉️ contatotech.tecnologia@gmail.com  
 
 <div> 
   <a href="https://www.instagram.com/felippeandreata/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
