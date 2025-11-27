@@ -1,70 +1,80 @@
 <img width="50" height="50" src="https://img.icons8.com/ios/50/github--v1.png" alt="github--v1"/>
 
-### Olá, seja bem vindo ao meu perfil 💻
+### Olá, seja bem vindo ao meu perfil 💻  
 ## Sou Felippe! 👨‍💻
 
-💬 Sou Desenvolvedor Full Stack Júnior, formado em Análise e Desenvolvimento de Sistemas pela UVV, com Pós-graduação em Cybersegurança em andamento. Possuo experiência prática em desenvolvimento web com PHP (Laravel), JavaScript, além de sólidos conhecimentos em bancos de dados MySQL/SQL, APIs RESTful, HTML, CSS, Bootstrap e versionamento com Git. Participei de projetos como sistemas de 
-gestão, plataformas de reservas e painéis administrativos, sempre priorizando usabilidade, segurança e eficiência. Busco novas oportunidades para aplicar e expandir meus conhecimentos, contribuindo em equipes colaborativas e ambientes de tecnologia desafiadores. 
+---
+
+## 🔐 Minha apresentação profissional – Cibersegurança
+
+Olá! Meu nome é **Felippe Fardin** e estou me profissionalizando na área de **Cibersegurança**, unindo minha formação em Tecnologia ao estudo contínuo de segurança digital, defesa e análise de ameaças.
+
+Atualmente curso **Pós-Graduação em Cibersegurança** e desenvolvo habilidades práticas em **SOC, Blue Team, análise de vulnerabilidades, investigação de logs, redes, Linux, SIEM (Wazuh), Nmap, Wireshark, Burp Suite e fundamentos de Pentest**.
+
+Possuo experiência prévia com desenvolvimento e TI, o que complementa minha visão técnica e fortalece minha atuação em segurança.  
+🤝 **Aberto a networking, conexões profissionais e oportunidades na área de Cibersegurança.**
 
 ---
 
 ## 📚 Formação Acadêmica
-
-- 🎓 **Graduação**: Análise e Desenvolvimento de Sistemas — Universidade Vila Velha (UVV), concluída em **31/07/2025**  
+- 🎓 **Graduação**: Análise e Desenvolvimento de Sistemas — UVV (31/07/2025)  
 - 🎓 **Pós-Graduação (em andamento)**: Cibersegurança  
 
 ---
 
 ## 🚀 O que faço
-
-- 🛠️ **Full Stack com PHP e bancos de dados**: crio aplicações robustas integrando backend e frontend.  
-- 🔭 **Construindo minha jornada profissional**.  
-- 🎯 **Foco na solução prática**: desenvolvo pensando na usabilidade e no impacto direto para o usuário.  
-- 📈 **Aprendizado contínuo**: acompanho novidades em frameworks, APIs, boas práticas de código e segurança — recentemente preparei materiais sobre APIs e segurança na internet.  
-- 🤝 **Colaboração e comunicação**: atuo bem em equipe, facilitando interações transparentes no desenvolvimento e no suporte técnico.  
+- 🛡️ Construindo minha carreira em **Cibersegurança e SOC**  
+- 🛠️ Full Stack com PHP, MySQL e sistemas web  
+- 📈 Estudos contínuos sobre SIEM, ataques, defesa e vulnerabilidades  
+- 🤝 Focado em colaboração, comunicação e trabalho em equipe  
 
 ---
-## 💼 Tecnologias & Ferramentas
 
-| Categoria                 | Tecnologias/Ferramentas                                             
+# 🛡️ Tecnologias & Ferramentas
 
-| 💻 **Linguagens**         | PHP, JavaScript, HTML5, CSS3, SQL                              
-| ⚙️ **Frameworks & Libs**  | Laravel, Bootstrap, React (inicial), Styled Components          
-| 🛢️ **Banco de Dados**     | MySQL, SQL Server                                                              
-| 🔐 **Autenticação**       | Laravel Sanctum, controle de permissões                                       
-| 🔄 **API RESTful**        | Criação e consumo com métodos GET e POST                                      
-| 🛠️ **Ferramentas**        | Git, GitHub, GitLab, VS Code, Figma                                           
-| 📚 **Documentação**       | Markdown, PDF, Trello, Jira                                                    
-| 🌐 **Hospedagem/Deploy**  | GitHub Pages, Vercel (inicial), servidores locais                              
-| 🎨 **UI/UX**              | Figma (protótipos), design responsivo, acessibilidade                         
+## 🔐 **Cibersegurança**
+| Categoria | Ferramentas |
+|----------|-------------|
+| 🛡 **Defesa / Blue Team** | Wazuh (SIEM), análise de logs, threat detection |
+| 🔍 **Análise / SOC** | Linux, Shell, logs, incident response (básico) |
+| ⚔️ **Ferramentas de Segurança** | Nmap, Wireshark, Burp Suite, OpenVAS/Nessus |
+| 💥 **Fundamentos Ofensivos** | Pentest básico, OWASP Top 10 |
+| 🧪 **Labs e Prática** | TryHackMe, Wazuh Cloud, ambientes simulados |
+
+---
+
+## 💻 **Desenvolvimento**
+| Categoria                 | Tecnologias/Ferramentas |
+|---------------------------|--------------------------|
+| 💻 **Linguagens**         | PHP, JavaScript, HTML5, CSS3, SQL |
+| ⚙️ **Frameworks & Libs**  | Laravel, Bootstrap, React (inicial) |
+| 🛢️ **Banco de Dados**     | MySQL, SQL Server |
+| 🔄 **API RESTful**        | Criação e consumo de APIs |
+| 🛠️ **Ferramentas**        | Git, GitHub, GitLab, VS Code |
+| 🎨 **UI/UX**              | Figma, design responsivo |
 
 ---
 
 ## 📫 Contato
-
 - [LinkedIn](https://www.linkedin.com/in/felippefardin/)
 - [GitHub](https://github.com/felippefardin)
 - [Meu Site](https://bugcriativo.page.gd/)
-- ✉️ felippefardin@gmail.com
+- ✉️ felippefardin@gmail.com  
 
 <div> 
-  <a href="https://www.instagram.com/felippefardin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:felippefardin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felippefardin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://bugcriativo.page.gd/" target="_blank"><img src="https://img.shields.io/badge/-MeuSite-%23FF0000?style=for-the-badge&logo=red&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/felippeandreata/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href = "mailto:felippefardin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/felippefardin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+  <a href="https://bugcriativo.page.gd/" target="_blank"><img src="https://img.shields.io/badge/-MeuSite-%23FF0000?style=for-the-badge&logo=red&logoColor=white"></a>
 </div>
 
-**Bootcamps Concluidos:** 
+---
 
+## 🏅 Bootcamps Concluídos
 <div>  
 <img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" width="70">  
 <img src="https://hermes.dio.me/tracks/c362ed53-4e9e-441e-ac1d-6a69f817c0bf.png" width="70">
 <img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" width="70">
 <img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" width="70">
 </div>
-
-**Conhecimento:**
-
-<p>Figma</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="70">
 
