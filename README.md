@@ -11,6 +11,10 @@ Olá! Meu nome é **Felippe Fardin** e estou me profissionalizando na área de *
 
 Atualmente curso **Pós-Graduação em Cibersegurança** e desenvolvo habilidades práticas em **SOC, Blue Team, análise de vulnerabilidades, investigação de logs, redes, Linux, SIEM (Wazuh), Nmap, Wireshark, Burp Suite e fundamentos de Pentest**.
 
+Curso finalizado **Introdução à cibersegurança** com certificado e habilidades práticas **Melhores práticas de segurança cibernética, Segurança cibernética, Vulnerabilidade de rede, Privacidade e confidêncialidade de dados, Detecção de ameaças.** 
+
+Curso em andamento **Hacker Ético** com habilidades de **Segurança ofensiva para descobrir ameaças cibernéticas e vulnerabilidades antes dos cibercriminosos**
+
 Possuo experiência prévia com desenvolvimento e TI, o que complementa minha visão técnica e fortalece minha atuação em segurança.  
 🤝 **Aberto a networking, conexões profissionais e oportunidades na área de Cibersegurança.**
 
