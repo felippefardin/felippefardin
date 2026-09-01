@@ -199,7 +199,7 @@ This combination of **development + IT + cybersecurity** gives me a broader tech
 - 💼 [LinkedIn](https://www.linkedin.com/in/felippefardin/)
 - 💻 [GitHub](https://github.com/felippefardin)
 - 🌐 [Website](https://bugcriativo.page.gd/)
-- ✉️ **Email:** contatotech.tecnologia@gmail.com
+- ✉️ **Email:** felippefardin@gmail.com
 
 <div>
   <a href="https://www.instagram.com/felippeandreata/" target="_blank">
