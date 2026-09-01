@@ -82,3 +82,113 @@ Possuo experiência prévia com desenvolvimento e TI, o que complementa minha vi
 <img src="https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png" width="70">
 </div>
 
+# Hi, I'm Felippe Fardin 👋
+
+## IT & Cybersecurity Professional
+
+IT professional with a degree in **Systems Analysis and Development** and postgraduate studies in **Cybersecurity**, combining experience in software development, IT support and public-sector technology environments with a growing focus on cybersecurity.
+
+I currently work with IT and technology at the **Municipal Attorney General's Office of Serra, Brazil**, supporting users, systems, web applications, databases and technology projects.
+
+My cybersecurity studies and hands-on labs are focused on **Security Operations (SOC), Blue Team, threat detection, log analysis, incident response, network security and vulnerability assessment**.
+
+I believe my development background helps me better understand applications, APIs, databases and systems from a security perspective.
+
+---
+
+## 🔐 Cybersecurity
+
+- Security Operations Center (SOC) fundamentals
+- Blue Team and defensive security
+- Threat detection and log analysis
+- Incident Response fundamentals
+- SIEM fundamentals and Wazuh
+- Network security
+- Vulnerability assessment
+- OWASP Top 10
+- OSINT and reconnaissance
+- Linux security fundamentals
+
+### Security Tools
+
+`Wazuh` `Linux` `Nmap` `Wireshark` `Burp Suite` `OpenVAS` `Nessus`
+
+---
+
+## 💻 Software Development
+
+### Languages
+
+`PHP` `JavaScript` `Python` `SQL` `HTML` `CSS`
+
+### Frameworks & Technologies
+
+`Laravel` `Bootstrap` `REST APIs` `JSON`
+
+### Databases
+
+`MySQL` `SQL Server`
+
+### Development Tools
+
+`Git` `GitHub` `GitLab` `VS Code`
+
+---
+
+## 🛡️ Featured Cybersecurity Project
+
+### Log Threat Detector
+
+Python-based security project designed to analyze web server logs and identify potentially malicious activity.
+
+The project includes detection logic for:
+
+- SQL Injection attempts
+- Path Traversal / Local File Inclusion
+- Sensitive file probing
+- Suspicious security scanners
+- Malicious source IP identification
+- Real-time log monitoring
+- JSON security reports
+- Firewall mitigation rule generation
+
+This project was developed as part of my hands-on cybersecurity learning focused on **SOC operations, log analysis and threat detection**.
+
+---
+
+## 🎓 Education
+
+- 🎓 **Technology Degree in Systems Analysis and Development** — Universidade Vila Velha (UVV)  
+  **Completed:** July 31, 2025
+
+- 🎓 **Postgraduate Specialization in Cybersecurity** — Faculdade Líbano  
+  **Completed:** June 30, 2026  
+  Focus: Threat Analysis, Threat Detection, Threat Prevention and Information Security
+
+- 🎓 **Postgraduate Specialization in Artificial Intelligence**  
+  **In progress**  
+  Focus: Artificial Intelligence, Machine Learning and AI-driven technologies
+
+---
+
+## 🎯 Career Focus
+
+I am currently interested in opportunities involving:
+
+- Junior Cybersecurity Analyst
+- SOC Analyst L1 / Tier 1
+- Security Analyst
+- IT Security Analyst
+- Security Operations
+- Junior Application Security
+
+I am also open to international remote opportunities and professional experiences abroad.
+
+---
+
+## 📫 Connect with me
+
+**LinkedIn:** linkedin.com/in/felippefardin/
+
+**GitHub:** github.com/felippefardin/
+
