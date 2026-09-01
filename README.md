@@ -32,17 +32,18 @@ My software development background also helps me understand applications, APIs, 
 
 ---
 
-## 🛡️ Cybersecurity Tools & Technologies
+## 🎯 Technologies & Areas I'm Interested in Working With
 
-| Area | Tools & Knowledge |
+| Area | Technologies & Focus |
 |---|---|
-| 🛡️ **SIEM / Blue Team** | Wazuh, Security Monitoring, Log Analysis, Threat Detection |
-| 🔍 **SOC / Analysis** | Linux, Shell, Logs, Incident Response Fundamentals |
-| 🌐 **Network & Security** | Nmap, Wireshark |
-| ⚔️ **Security Testing** | Burp Suite, OpenVAS, Nessus |
-| 💥 **Offensive Fundamentals** | Ethical Hacking, Pentest Fundamentals, OWASP Top 10 |
-| 🕵️ **OSINT / Reconnaissance** | Nmap, OSINT Techniques, Reconnaissance |
-| 🧪 **Hands-on Labs** | TryHackMe, Wazuh, Simulated Security Environments |
+| 🛡️ **SIEM / Blue Team** | Wazuh, Splunk, Microsoft Sentinel, Elastic Security |
+| 🔍 **SOC / Security Operations** | Threat Detection, Alert Triage, Log Investigation, Incident Response |
+| 💻 **Endpoint Security** | EDR, Microsoft Defender for Endpoint, CrowdStrike |
+| 🌐 **Network Security** | Wireshark, Nmap, IDS/IPS, Network Monitoring |
+| ☁️ **Cloud Security** | Microsoft Azure, AWS Security, Cloud Monitoring |
+| ⚔️ **Application Security** | Burp Suite, OWASP Top 10, Vulnerability Assessment |
+| 🕵️ **Threat Intelligence / OSINT** | SpiderFoot, theHarvester, Threat Intelligence, IOC Analysis |
+| 🤖 **Security Automation** | Python, SOAR, Security Automation, API Integrations |
 
 ---
 
